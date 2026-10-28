@@ -92,7 +92,7 @@ public class Bandera extends JFrame {
                 new String[]{"Islandia", "Kosovo", "Skypia"}, "Kosovo");
         agregarBandera("C:\\Users\\Tarde\\Desktop\\eclipse\\Programas\\src\\banderasJuego\\Kiribati.png", 
                 new String[]{"Himnadic", "Jamacuco", "Kiribati"}, "Kiribati");
-        agregarBandera("C:\\Users\\Tarde\\Desktop\\eclipse\\Programas\\src\\banderasJuego\\CoreaSur.png", 
+        agregarBandera("C:\\Users\\Tarde\\Desktop\\eclipse\\Programas\\src\\banderasJuego\\Madagascar.png", 
                 new String[]{"Pakichu", "Sabanaland", "Madagascar"}, "Madagascar");
         agregarBandera("C:\\Users\\Tarde\\Desktop\\eclipse\\Programas\\src\\banderasJuego\\Seychelles.png", 
                 new String[]{"Schrodinger", "Seychelles", "Rascaypica"}, "Seychelles");
